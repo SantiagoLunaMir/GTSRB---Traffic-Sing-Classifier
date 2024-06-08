@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>ebe48efb-2.png</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>64</width>
+<height>64</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>21</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>25</xmin>
+<ymin>2</ymin>
+<xmax>61</xmax>
+<ymax>52</ymax>
+</bndbox>
+</object>
+</annotation>
