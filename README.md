@@ -25,7 +25,6 @@ import cv2
 import numpy as np
 from keras.models import load_model
 
-# start webcam
 cap = cv2.VideoCapture(0)
 cap.set(3, 640)
 cap.set(4, 480)
